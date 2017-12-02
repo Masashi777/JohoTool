@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<resources>
+	<string name="title_1">米国への船便小包の料金計算</string>
+	<string name="title_2">お釣り計算ツール</string>
+	<string name="title_3">ローマ数字変換ツール</string>
+	<string name="description_1">米国への船便小包の料金を計算します。\n
+1000gまでは一律1,800円。\n
+10000gまでは1000gごとに+550円\n
+20000gまでは1000gごとに+350円\n
+20000g（20㎏）以上の小包は送れません。</string>
+	<string name="description_2">代金と預かり金額を入力してください。
+お釣りを計算し、必要な硬貨・紙幣の計算を行います。</string>
+	<string name="descriputin_3">3999以下の数値を入力してください。
+ローマ数字に変換します。</string>
+</resources>
